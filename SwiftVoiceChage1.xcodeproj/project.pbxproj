@@ -12,6 +12,13 @@
 		A46D9F3D1D8BCEC9005BB9A7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A46D9F3B1D8BCEC9005BB9A7 /* Main.storyboard */; };
 		A46D9F3F1D8BCEC9005BB9A7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A46D9F3E1D8BCEC9005BB9A7 /* Assets.xcassets */; };
 		A46D9F421D8BCEC9005BB9A7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A46D9F401D8BCEC9005BB9A7 /* LaunchScreen.storyboard */; };
+		A46D9F4F1D8BCF03005BB9A7 /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = A46D9F491D8BCF02005BB9A7 /* 1.png */; };
+		A46D9F501D8BCF03005BB9A7 /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = A46D9F4A1D8BCF02005BB9A7 /* 2.png */; };
+		A46D9F511D8BCF03005BB9A7 /* 3.png in Resources */ = {isa = PBXBuildFile; fileRef = A46D9F4B1D8BCF02005BB9A7 /* 3.png */; };
+		A46D9F521D8BCF03005BB9A7 /* 4.png in Resources */ = {isa = PBXBuildFile; fileRef = A46D9F4C1D8BCF02005BB9A7 /* 4.png */; };
+		A46D9F531D8BCF03005BB9A7 /* 5.png in Resources */ = {isa = PBXBuildFile; fileRef = A46D9F4D1D8BCF02005BB9A7 /* 5.png */; };
+		A46D9F541D8BCF03005BB9A7 /* 6.png in Resources */ = {isa = PBXBuildFile; fileRef = A46D9F4E1D8BCF02005BB9A7 /* 6.png */; };
+		A46D9F561D8BD18F005BB9A7 /* back.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A46D9F551D8BD18F005BB9A7 /* back.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +29,13 @@
 		A46D9F3E1D8BCEC9005BB9A7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A46D9F411D8BCEC9005BB9A7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A46D9F431D8BCEC9005BB9A7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A46D9F491D8BCF02005BB9A7 /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
+		A46D9F4A1D8BCF02005BB9A7 /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.png; sourceTree = "<group>"; };
+		A46D9F4B1D8BCF02005BB9A7 /* 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 3.png; sourceTree = "<group>"; };
+		A46D9F4C1D8BCF02005BB9A7 /* 4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 4.png; sourceTree = "<group>"; };
+		A46D9F4D1D8BCF02005BB9A7 /* 5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 5.png; sourceTree = "<group>"; };
+		A46D9F4E1D8BCF02005BB9A7 /* 6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 6.png; sourceTree = "<group>"; };
+		A46D9F551D8BD18F005BB9A7 /* back.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = back.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +68,13 @@
 		A46D9F361D8BCEC9005BB9A7 /* SwiftVoiceChage1 */ = {
 			isa = PBXGroup;
 			children = (
+				A46D9F491D8BCF02005BB9A7 /* 1.png */,
+				A46D9F4A1D8BCF02005BB9A7 /* 2.png */,
+				A46D9F4B1D8BCF02005BB9A7 /* 3.png */,
+				A46D9F4C1D8BCF02005BB9A7 /* 4.png */,
+				A46D9F4D1D8BCF02005BB9A7 /* 5.png */,
+				A46D9F4E1D8BCF02005BB9A7 /* 6.png */,
+				A46D9F551D8BD18F005BB9A7 /* back.jpg */,
 				A46D9F371D8BCEC9005BB9A7 /* AppDelegate.swift */,
 				A46D9F391D8BCEC9005BB9A7 /* ViewController.swift */,
 				A46D9F3B1D8BCEC9005BB9A7 /* Main.storyboard */,
@@ -125,6 +146,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				A46D9F421D8BCEC9005BB9A7 /* LaunchScreen.storyboard in Resources */,
+				A46D9F521D8BCF03005BB9A7 /* 4.png in Resources */,
+				A46D9F4F1D8BCF03005BB9A7 /* 1.png in Resources */,
+				A46D9F541D8BCF03005BB9A7 /* 6.png in Resources */,
+				A46D9F501D8BCF03005BB9A7 /* 2.png in Resources */,
+				A46D9F511D8BCF03005BB9A7 /* 3.png in Resources */,
+				A46D9F561D8BD18F005BB9A7 /* back.jpg in Resources */,
+				A46D9F531D8BCF03005BB9A7 /* 5.png in Resources */,
 				A46D9F3F1D8BCEC9005BB9A7 /* Assets.xcassets in Resources */,
 				A46D9F3D1D8BCEC9005BB9A7 /* Main.storyboard in Resources */,
 			);
